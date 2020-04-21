@@ -6,8 +6,4 @@
     - [开发准备](partone/ready-one.md)
     - [代码开发关键步骤](partone/keycode-one.md)
     - [Dome效果](partone/domeeffect-one.md)
-- [第二期，证件照DIY](part-two.md)
-    - [前言](feedback_please.md)
-    - [开发准备](ready-one.md)
-    - [代码开发关键步骤](keycode-one.md)
-    - [Dome效果](domeeffect-one.md)
+
